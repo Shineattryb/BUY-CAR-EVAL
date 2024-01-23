@@ -1,0 +1,9 @@
+.app-container{
+   background:linear-gradient(white,rgb(194, 185, 185));
+}
+@media only screen and (max-width:600px){
+    *{
+        margin:0px;
+        padding:0px;
+    }
+}
